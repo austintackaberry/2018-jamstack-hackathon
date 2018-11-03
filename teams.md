@@ -51,7 +51,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Teammates:
     - Fay Yang (@CodeFay)
     - Colin King-Bailey (@ckingbailey)
-    - Neil Ricci (@iccir919)
 * Seeking Teammates: Yes
 * [SmarTea Pants repo on Github](https://github.com/ckingbailey/smarteapants)
 
@@ -91,7 +90,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Teammate Name (@km.#3850)
 * Seeking Teammates: No
 * [Project URL](https://github.com/syedirfan7/airqualityApp)
-***
+*** 
 
 # Count'em All
 ### A simple app to count the number of people attending a gathering
@@ -134,7 +133,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ***
 
 # PB&JAM
-### tbd
+### Real-time blazing-fast, image-recognition, machine-learning picture scavenger hunt
 * Teammates:
   - Austin (@austintackaberry)
   - Reuben (@radotreyes)
@@ -142,19 +141,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Brandon (@brandonstinson)
   - Vincent (@vtam2012)
 * Seeking Teammates: Sure!
-* tbd
-
-***
-
-# AMA
-### An app for people to host personalized Q&As!
-* Teammates:
-    - Dhron Joshi (@dhron)
-    - Mattias Eyram (@mattias)
-    - Yusuf Khaled (@freeman-cortez)
-* Seeking Teammates: No
-* [Project URL](https://github.com/mattiaseyram/JAMStack-Hackathon-Team-App)
-* AMA
+* https://github.com/radotreyes/SICC-PICCS
+* __SICC PICCS__
 
 ***
 
@@ -183,34 +171,10 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 #Cartogram
-### Create travel itineraries from just a picture and share your travels!
+### Create travel itineraries from just a picture and share your travels! 
 * Teammates:
     - Samantha Maclaren (@Samantha M)
 * Seeking Teammates: No
 * [Project Repo](https://github.com/samantha-m/Cartogram)
 * [Check Out Cartogram](https://hopeful-chandrasekhar-ebe6b9.netlify.com/)
-
-***
-
-# Cocoon
-### A forum that allows for posting of images that can be configured for rejecting NSFW images. Also supports image tagging.
-* Teammates:
-    - Alex Pitzer (@hoop)
-    - Mandy Trinh (@mandytrinh)
-    - Billy Le (@billyle)
-    - Jason Serafica (@teknoformula)
-* Seeking Teammates: Yes
-* [Project URL](https://github.com/reztip/cocoon)
-* Project Name (Cocoon)
-
-# Russian Hackers
-### tbd
-* Teammates:
-    - Ron (@vokoshyv)
-    - Kevin (@jamalthejanitor#1701)
-* Seeking Teammates: No
-* [Project URL (Subject to change...)](https://github.com/vokoshyv/tea_i_drink_with_JAM_and_bread)
-* Project Name - tbd
-
-***
 
